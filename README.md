@@ -1,5 +1,7 @@
 # CS-6140
 
+The Minimum Vertex cover (MVC) problem is a well known NP-complete problem with numerous applications in computational biology, operations research,the routing and management of resources. In this program, this problem has been addressed using different algorithms (Branch & Bound, Approximation, Local Search), evaluating their theoretical and experimental complexities on real world datasets.
+
 To run this program in terminal, make sure you are at the directory of "6140" folder, then follow these procedures:
 
 Compile:
